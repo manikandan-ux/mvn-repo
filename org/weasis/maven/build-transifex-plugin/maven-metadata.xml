@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<metadata>
+	<groupId>org.weasis.maven</groupId>
+	<artifactId>build-transifex-plugin</artifactId>
+	<version>1.0.1</version>
+	<versioning>
+		<release>1.0.1</release>
+		<versions>
+ 			<version>1.0.0</version>
+			<version>1.0.1</version>
+		</versions>
+		<lastUpdated>20210110203715</lastUpdated>
+	</versioning>
+</metadata>
